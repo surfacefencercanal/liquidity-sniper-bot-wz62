@@ -1,4 +1,4 @@
-# 
+# new liquidity sniper bot | meme-coin-scanning + sandwich-attack-execution is the best liquidity sniper bot, featuring meme-coin-scanning and sandwich-attack-execution. Fast,
 
 
 
